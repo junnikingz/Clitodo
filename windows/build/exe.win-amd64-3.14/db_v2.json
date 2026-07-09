@@ -1,0 +1,43 @@
+{
+    "categories": [
+        "PRODUCTIVITY",
+        "WORK",
+        "HOME",
+        "HOBBIES"
+    ],
+    "items": [
+        {
+            "category": "PRODUCTIVITY",
+            "label": "This is a test task, u can use the mouse to click on the buttons, please use the navigation buttons to move through app",
+            "checked": true,
+            "subtasks": [
+                {
+                    "label": "this is a sub task examples, make sure that all your text fit in a 200 char buffer",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "category": "PRODUCTIVITY",
+            "label": "Please click the save button after entering the task name to save the task (*-<)",
+            "checked": false,
+            "subtasks": [
+                {
+                    "label": "this also includes changes like del a task",
+                    "checked": false
+                }
+            ]
+        },
+        {
+            "category": "PRODUCTIVITY",
+            "label": "feel free to del all the tasks, add add ur own tabs with the add tab button",
+            "checked": false,
+            "subtasks": [
+                {
+                    "label": "enjoy the open source as it was might to be, cli_fy all apps, the nerd way",
+                    "checked": false
+                }
+            ]
+        }
+    ]
+}

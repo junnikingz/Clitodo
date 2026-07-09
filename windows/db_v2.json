@@ -1,0 +1,22 @@
+{
+    "categories": [
+        "PRODUCTIVITY",
+        "WORK",
+        "HOME",
+        "HOBBIES"
+    ],
+    "items": [
+        {
+            "category": "PRODUCTIVITY",
+            "label": "Review blueprint layout",
+            "checked": false,
+            "subtasks": []
+        },
+        {
+            "category": "WORK",
+            "label": "Build Rust practical application TUI",
+            "checked": false,
+            "subtasks": []
+        }
+    ]
+}

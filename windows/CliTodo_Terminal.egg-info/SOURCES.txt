@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+CliTodo_Terminal.egg-info/PKG-INFO
+CliTodo_Terminal.egg-info/SOURCES.txt
+CliTodo_Terminal.egg-info/dependency_links.txt
+CliTodo_Terminal.egg-info/top_level.txt
