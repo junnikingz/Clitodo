@@ -42,7 +42,6 @@ Before starting the build process for either platform, make sure your workspace 
 - `app_icon.ico`
 - `LICENSE`
 
-Then install the dependencies:
 
 ```bash
 # (dependency installation command to be added here)
